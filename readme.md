@@ -12,3 +12,4 @@ Continuous Integration Tools
 - more changes
 - practice more changes
 - see here
+- amplify changes
