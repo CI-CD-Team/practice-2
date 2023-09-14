@@ -35,3 +35,7 @@ inquirer
 
     }
   })
+
+app.listen(3000, () => {
+  console.log("server is runnig at port 3000");
+})
